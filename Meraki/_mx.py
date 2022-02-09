@@ -8,7 +8,7 @@ class Mx:
     def __init__(self, apiKey: str, organizationId: str, serial: str) -> None:
 
         """
-            Instância um objeto que permite consultar ou executar ações em um MX por meio de API.
+            Cria um objeto que permite consultar ou executar ações em um MX por meio de API.
 
             :param apiKey: Chave de API Dashboard Meraki.
             :type apiKey: str
