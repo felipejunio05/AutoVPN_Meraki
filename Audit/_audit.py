@@ -9,7 +9,7 @@ class Audit:
     def __init__(self, file: str) -> None:
 
         """
-            Instância um objeto que permite salvar observações em um arquivo de texto.
+            Cria um objeto que permite salvar observações em um arquivo de texto.
 
             :param file: Determina o nome do arquivo.
             :type file: str
